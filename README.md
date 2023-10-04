@@ -10,7 +10,7 @@ This MIPS assembly code, developed in MARS IDE, is designed to calculate the fac
 ## Recursive Factorial Function
 
 The `factorialFunction` is a recursive function that calculates the factorial of an integer using a base case and recursion. It utilizes the stack to store local variables and return addresses during recursion.
-
+ 
 ## Code Explanation
 
 - The program accepts user input, stores it in a global variable, and calls a factorial calculation function.
